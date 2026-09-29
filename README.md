@@ -80,4 +80,4 @@ Por lo tanto, tenés dos opciones:
 Importación masiva: copiar y pegar todas las líneas add_friend de settings_ddnet.cfg.
 Importación individual: agregar cada jugador manualmente.
 
-Esto resulta especialmente útil cuando tenés una lista grande de amigos, ya que no es necesario agregarlos manualmente uno por uno.
+Esto resulta especialmente útil cuando tenés una lista grande de amigos, ya que no es necesario agregarlos manualmente uno por uno

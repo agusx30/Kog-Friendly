@@ -1,3 +1,46 @@
+Importing DDNet Friends
+
+The application allows you to easily import all your DDNet friends directly from the game's configuration file.
+
+Where to find your friend list
+
+On Windows, the file is located at:
+
+%APPDATA%\DDNet\settings_ddnet.cfg
+
+You can also access it directly through:
+
+C:\Users\YOUR_USERNAME\AppData\Roaming\DDNet\settings_ddnet.cfg
+Import all friends at once
+
+Open settings_ddnet.cfg with any text editor and look for the lines that start with add_friend.
+
+For example:
+
+add_friend "Dkz'" "|*KoG*|"
+add_friend "Floῳless" ""
+add_friend "Serafim" ""
+add_friend "Peoxx" ""
+add_friend "Zer0" ""
+add_friend "agusx30" ""
+
+You can copy all of the add_friend lines at once and paste them directly into the application.
+
+The application will automatically process each line and add the corresponding players.
+
+Add players individually
+
+If you prefer, you can also add players one by one using the corresponding option in the application.
+
+This gives you two options:
+
+Bulk import: Copy and paste all the add_friend lines from settings_ddnet.cfg.
+Individual import: Add each player manually.
+
+Bulk import is especially useful if you have a large friend list, since you don't have to add every player manually.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 Importar amigos de DDNet
 
 La aplicación permite importar fácilmente todos tus amigos de DDNet directamente desde el archivo de configuración del juego.
